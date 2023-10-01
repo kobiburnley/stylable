@@ -4,6 +4,7 @@
   "description": "Stylable runtime DOM integration",
   "main": "dist/index.js",
   "module": "esm/index.js",
+  "types": "dist/index.d.ts",
   "sideEffects": false,
   "scripts": {
     "test": "run-p test:unit test:e2e",
